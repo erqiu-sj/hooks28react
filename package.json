@@ -1,6 +1,6 @@
 {
   "name": "hooks28react",
-  "version": "1.1.5",
+  "version": "1.1.9",
   "private": false,
   "bin": {
     "hooks28react": "./main.ts"
