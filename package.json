@@ -1,0 +1,22 @@
+{
+  "name": "hooks28react",
+  "version": "1.1.5",
+  "private": false,
+  "bin": {
+    "hooks28react": "./main.ts"
+  },
+  "description": "",
+  "main": "index.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "hooks",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.2.1",
+    "handlebars": "^4.7.6",
+    "inquirer": "^7.3.3",
+    "path": "^0.12.7",
+    "shelljs": "^0.8.4"
+  }
+}
