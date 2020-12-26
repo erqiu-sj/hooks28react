@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b3fb1c7-495c-4219-b108-e35ea119351a" name="Default Changelist" comment="" />
+    <list default="true" id="4b3fb1c7-495c-4219-b108-e35ea119351a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/awesome/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/awesome/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/main.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/awesome" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mBfLD66CJEStwPs85IXgf3q0d5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -40,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608971846788</updated>
-      <workItem from="1608971848128" duration="11980000" />
+      <workItem from="1608971848128" duration="12359000" />
     </task>
     <servers />
   </component>

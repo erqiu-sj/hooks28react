@@ -49,9 +49,10 @@ program
                 // 修改package文件依赖
                 const packageContent = fs.readFileSync(packagePath).toString();
                 fs.writeFileSync(packagePath, compile(packageContent)(res))
-                command('npm i')
                 log(chalk.green('success'))
-                log(chalk.blue('cd'), `./${name}`)
+                // 切换路径
+                command(`cd ./${name}`)
+                command('npm i')
                 log(chalk.blue('npm start'))
             } catch (e) {
                 log(chalk.red('fail'))
