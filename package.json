@@ -1,6 +1,6 @@
 {
   "name": "hooks28react",
-  "version": "1.1.9",
+  "version": "1.2.4",
   "private": false,
   "bin": {
     "hooks28react": "./main.ts"
@@ -14,6 +14,7 @@
   "dependencies": {
     "chalk": "^4.1.0",
     "commander": "^6.2.1",
+    "figlet": "^1.5.0",
     "handlebars": "^4.7.6",
     "inquirer": "^7.3.3",
     "path": "^0.12.7",
